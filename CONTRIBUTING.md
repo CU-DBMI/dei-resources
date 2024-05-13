@@ -33,7 +33,7 @@ Once you make the necessary changes on this branch, you should file a pull reque
 The content and description of your pull request are directly related to the speed at which we are able to review, approve, and merge your contribution.
 To ensure an efficient review process please perform the following steps:
 
-1. Follow all instructions in the [pull request template](link%20here)
+1. Follow all instructions in the [pull request template](.github/PULL_REQUEST_TEMPLATE.md)
 1. Triple check that your pull request is adding _one_ specific feature or additional group of content.
    Small, bite-sized pull requests move so much faster than large pull requests.
 1. After submitting your pull request, ensure that your contribution passes all status checks (e.g. passes all tests)
