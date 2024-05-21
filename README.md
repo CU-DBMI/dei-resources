@@ -91,7 +91,7 @@ Please see details about how to make changes within the [`CONTRIBUTING.md`](CONT
 - [**Pre-Health Dreamers**](https://www.phdreamers.org/)
 - [**International Tax Office**](https://www.cu.edu/employee-services/international-tax/international-employees) - For international tax questions.
 - [**International Crisis Support and Resources**](https://www.vitalworklife.com/international-crisis-support-and-resources) - Crisis support information and resources.
-- **Dreamers Road Map** - http://dreamersroadmap.org/
+- [**Dreamers Road Map**](http://dreamersroadmap.org/)
 - [**Denver Resource Guide for New Americans**](https://www.denverlibrary.org/sites/dplorg/files/EF216NewAmResourceGuide.pdf)
 
 ## Disability Resources
@@ -145,7 +145,7 @@ Please see details about how to make changes within the [`CONTRIBUTING.md`](CONT
 - [**Mentor Code of Conduct**](https://docs.google.com/document/d/11y0RNxCqqI0cVy0B6k3CoijIUuhho53G1Sd7biZ6HEM/edit) - Code of conduct for mentors in the program.
 - [**Colorado Civil Rights Division**](https://ccrd.colorado.gov/) - \[Advocacy\]
 - [**GLSEN (LGBTQ+ Educator's Network)**](https://www.glsen.org/)
-- **Human Rights Campaign** - http://www.hrc.org/
+- [**Human Rights Campaign**](http://www.hrc.org/)
 - [**Lambda Legal**](https://www.lambdalegal.org/)
 - [**National Center for Lesbian Rights**](https://www.nclrights.org/)
 - [**National Center for Transgender Equality**](https://transequality.org/)
@@ -169,7 +169,7 @@ Please see details about how to make changes within the [`CONTRIBUTING.md`](CONT
 - [**UCHealth Integrated Transgender Program**](https://www.uchealth.org/services/diabetes-endocrinology-care/uchealth-integrated-transgender-program/)
 - [**LGBTQ+ Healthcare Directory**](https://lgbtqhealthcaredirectory.org/)
 - [**Denver Health (Hormone Replacement Therapy and voice training)**](https://www.denverhealth.org/services/lgbtq-services)
-- [**SafeHouse Denver (support services and emergency shelter space for survivors of domestic/relationship violence regardless of sexual orientation or gender identity)**](https://safehouse-denver.org/) - \[LGBTQ+ Friendly Social Services\]
+- [**SafeHouse Denver**](https://safehouse-denver.org/) - \[LGBTQ+ Friendly Social Services\] - Support services and emergency shelter space for survivors of domestic/relationship violence regardless of sexual orientation or gender identity.
 - [**The Housing Authority of Aurora**](https://www.aurorahousing.org/) - Specializes in mission-driven housing that currently serves 2,000 households through voucher programs and 1,620 residents that reside in their affordable rental communities.
 - [**The Center at Colfax**](https://lgbtqcolorado.org/resources/wpbdp_category/mental-health/) - \[LGBTQ+ Friendly Mental Health Services\] - Provides a compiled list of providers who are LGBTQ+ affirming.
 - [**Denver Health**](https://www.denverhealth.org/services/lgbtq-services)
@@ -192,11 +192,11 @@ Please see details about how to make changes within the [`CONTRIBUTING.md`](CONT
 ## Religious Resources
 
 - [**Catholic Mass Online**](https://catholiccurrent.org/covid19/?mc_cid=653133a134&mc_eid=c3fb0c97cc) - \[Catholic Services\] - Online Catholic Mass services.
-- **Jumah Prayer Service** - http://thenationsmosque.org/jumah-stream/ - \[Islamic Services\] - Online streaming of Jumah prayer.
+- [**Jumah Prayer Service**](http://thenationsmosque.org/jumah-stream/) - \[Islamic Services\] - Online streaming of Jumah prayer.
 - [**Sim Shalom Online**](https://simshalom.com/) - \[Jewish Services\] - Online Jewish services and resources.
 - [**Reform Judaism: Shabbat Services**](https://reformjudaism.org/find-a-congregation/keywords?search_api_views_fulltext=&field_event_location_latlon_op=16.0934&field_event_location_latlon=80011&field_list_stateprovince=All) - Online Shabbat services.
 - [**Life.Church**](https://www.life.church/) - \[Non-denominational Services\] - Online services and resources.
-- **Colorado Community Church Online** - http://www.coloradocommunity.org/ - Online community church services.
+- [**Colorado Community Church Online**](http://www.coloradocommunity.org/) - Online community church services.
 - [**Brave Church**](https://bravechurch.co/)
 - [**New Life Church Online**](https://north.newlifechurch.org/)
 - [**Flatirons Community Church Online**](https://www.flatironschurch.com/)
@@ -258,17 +258,17 @@ Please see details about how to make changes within the [`CONTRIBUTING.md`](CONT
 
 ## Child Care & Family Support
 
-- **Fitzsimons Early Learning Center** - http://child-care-preschool.brighthorizons.com/co/aurora/fitzsimons - \[Childcare Resources Near Campus\] - Childcare for dependents of staff and students near Fitzsimons Credit Union.
+- [**Fitzsimons Early Learning Center**](http://child-care-preschool.brighthorizons.com/co/aurora/fitzsimons) - \[Childcare Resources Near Campus\] - Childcare for dependents of staff and students near Fitzsimons Credit Union.
 - [**Compositive Primary**](https://compositiveprimary.org/) - Elementary school offering year-round education with priority for dependents of students and staff.
 - [**Aurora Public Schools**](https://aurorak12.org/) - \[Public School Childcare Programs\] - K-12 schools in Aurora offering pre-school and childcare.
 - [**Aurora YMCA Childcare Resources**](https://www.denverymca.org/aurora-family-ymca/child-care) - Childcare resources provided by Aurora YMCA.
-- **Denver Public Schools After School Program** - http://discoverylink.dpsk12.org/ - After school programs in Denver Public Schools.
+- [**Denver Public Schools After School Program**](http://discoverylink.dpsk12.org/) - After school programs in Denver Public Schools.
 - [**Montessori Children's House of Denver**](https://montessoridenver.org/) - \[Resources Around Colorado\] - Montessori education in Denver.
 - [**The Goddard School**](https://www.goddardschool.com/schools/co/denver/denver) - A network of schools providing education and childcare.
 - [**Child Care Data Center**](https://www.childcareaware.org/) - Resource for data and information on childcare in the US.
 - [**Care.com**](https://www.care.com/) - Platform for finding nearby childcare services.
 - [**Denver School Finder**](https://dps.schoolmint.net/school-finder/home) - \[School Enrollment Resources\] - Tool to locate neighborhood schools in Denver.
-- **Aurora Address Lookup Tool** - http://aurorak12.org/schools/address-lookup-tool/ - Tool to determine school attendance based on address in Aurora.
+- [**Aurora Address Lookup Tool**](http://aurorak12.org/schools/address-lookup-tool/) - Tool to determine school attendance based on address in Aurora.
 - [**Douglas County School District**](https://www.dcsdk12.org/cms/one.aspx?pageId=5759910) - Information on school registration and boundaries in Douglas County.
 - [**School View - State of Colorado**](https://www.cde.state.co.us/schoolview) - Resource for researching schools across Colorado.
 
