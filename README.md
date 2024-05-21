@@ -133,7 +133,7 @@ Please see details about how to make changes within the [`CONTRIBUTING.md`](CONT
 - **Journaling** - Contact for LGBTQ+ journaling group. - Contact: Xander.Bradeen@cuanschutz.edu
 - **Movie Night** - Contact for LGBTQ+ movie night. - Contact: Jay.Bolan@cuanschutz.edu
 - **Sports Leagues** - Contact for LGBTQ+ sports leagues. - Contact: Amber.Parvin@cuanschutz.edu
-- **Medical School Pride Alliance** - \[Other LGBTQ+ Groups and Resources on Campus and in Aurora\] - Contact: Monica.Patten@cuanschutz.edu <!-- codespell:ignore -->
+- **Medical School Pride Alliance** - \[Other LGBTQ+ Groups and Resources on Campus and in Aurora\] - Contact: Monica.Patten@cuanschutz.edu
 - **Spectrum ALLYance** - Contact: Ariel.Porto@childrenscolorado.org
 - **Imagine Clinic** - Contact: Robert.Davies@cuanschutz.edu
 - **LGBTQ+ Alliance** - Contact: Robert.Simril@cuanschutz.edu

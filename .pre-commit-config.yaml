@@ -20,6 +20,8 @@ repos:
               .*\.lock |
               .*\.json
           )$
+        args:
+          - "-L patten"
   - repo: https://github.com/executablebooks/mdformat
     rev: 0.7.17
     hooks:
